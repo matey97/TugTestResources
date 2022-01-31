@@ -1,0 +1,9 @@
+[submodule "TugTestSmartphone"]
+	path = TugTestSmartphone
+	url = https://github.com/matey97/TugTestSmartphone.git
+[submodule "TugTestSmartwatch"]
+	path = TugTestSmartwatch
+	url = https://github.com/matey97/TugTestSmartwatch.git
+[submodule "TugTestAnalytics"]
+	path = TugTestAnalytics
+	url = https://github.com/matey97/TugTestAnalytics.git
