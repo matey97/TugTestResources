@@ -10,11 +10,11 @@ smartwatch and a smartphone device, used as a sensing and  a computing device, r
 
 The included resources are:
 
-- [TugTestAnalytics](./TugTestAnalytics): repository containing code and data used for the offline training of the
+- [TugTestAnalytics](https://github.com/matey97/TugTestAnalytics.git): repository containing code and data used for the offline training of the
 machine learning model used by the developed system and results and conclusions obtained from
 the executed experiments.
-- [TugTestSmartphone](./TugTestSmartphone): repository containing the smartphone application used in the research.
-- [TugTestSmartwatch](./TugTestSmartwatch): repository containing the smartwatch application used in the research.
+- [TugTestSmartphone](https://github.com/matey97/TugTestSmartphone.git): repository containing the smartphone application used in the research.
+- [TugTestSmartwatch](https://github.com/matey97/TugTestSmartwatch.git): repository containing the smartwatch application used in the research.
 
 Further instructions and information are included in the respective repositories.
 
