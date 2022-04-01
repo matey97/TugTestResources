@@ -1,10 +1,10 @@
 # TugTestResources
 
-This repository contains all the resources used for the paper 
-**Instrumented Timed Up and Go test using inertial sensors from consumer wearable devices**
+This repository contains all the resources used for the AIME 2022 conference paper 
+*Instrumented Timed Up and Go test using inertial sensors from consumer wearable devices*
 
 The research aims the self-assessment of the Timed Up and Go (TUG) test using a 
-smartwatch and a smartphone device, used as a sensing and  a computing device, repectively.
+smartwatch and a smartphone device, used as a sensing and  a computing device, respectively.
 
 ## Resources
 
