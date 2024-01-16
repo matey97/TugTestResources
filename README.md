@@ -37,3 +37,7 @@ TugTestSmartphone and TugTestSmartwatch code are licensed under Apache 2.0 Licen
 TugTestAnalytics code and data are licensed under MIT License.
 
 See the respective LICENSE files at their repositories.
+
+## Acknowledgements
+
+This work has been possible thanks to the Spanish Ministry of Universities [grant FPU19/05352] and by MCIN/AEI/10.13039/501100011033 [grant PID2020-120250RB-I00].
